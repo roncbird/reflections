@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-It creates all of the meta data to track your changes. If you don't do it, you're project won't be tracked by git. 
+It creates all of the meta data to track your changes. If you don't do it, you're project won't be tracked by git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is an intermediate stage for files you've changed, waiting to be commited to the actually repository, whereas working directory and repository already have files that have been saved and changed. Stage area can be wiped out.  
+
+This is easier. 
