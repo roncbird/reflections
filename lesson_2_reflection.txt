@@ -10,4 +10,4 @@ What are some situations when branches would be helpful in keeping your history 
 
 If you have a major change or feature you want to add you can create a new branch and it will be easier to see a major change was added at the point in time the branch was created. Whereas, if the change was committed on the master branch it would not be as obvious.  
 
-This is a test bla bla bla
+This is a test bla bla git is stupid
